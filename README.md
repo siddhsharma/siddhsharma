@@ -12,7 +12,7 @@
 ## 🎓 Education  
 
 - **Master of Computer Applications (MCA)** — *Amity University, Noida* (2025 – Present)  
-- **Bachelor of Computer Applications (BCA)** — *Poddar International College, University of Rajasthan* (2022 – 2025)  
+- **Bachelor of Computer Applications (BCA)** — *Poddar International College, University of Rajasthan* (2021 – 2024)  
 
 ---
 
